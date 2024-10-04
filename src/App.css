@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family:'DM Sans', sans-serif;
+}
+
+body {
+  height:100vh;
+  margin:0px;
+  padding:0px;
+  /* Padding to avoid the "unsafe" areas behind notches in the screen */
+  padding: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px) env(safe-area-inset-bottom, 0px) env(safe-area-inset-left, 0px);
+  width:100%; 
+  background-color: rgb(255, 255, 255);
+}
