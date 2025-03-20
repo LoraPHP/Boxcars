@@ -51,8 +51,8 @@ export default function Testimonials() {
                 {reviews.slice(currentIndex, currentIndex + nrShownReviews)}
             </ul>
             <div className="testimonial-buttons">
-                <button className="navigation-button" onClick={handlePrevClick}> <img src="/assets/prev-icon.png"/> </button>
-                <button className="navigation-button" onClick={handleNextClick}> <img src="/assets/next-icon.png"/> </button>
+                <button className="navigation-button" onClick={handlePrevClick}> <img src="./assets/prev-icon.png"/> </button>
+                <button className="navigation-button" onClick={handleNextClick}> <img src="./assets/next-icon.png"/> </button>
             </div>
         </section>
 

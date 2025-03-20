@@ -61,10 +61,10 @@ export default function Footer() {
                     </ul>
                     <h3>Connect With Us</h3>
                     <div className="social-icons">
-                        <a href="#"><img src="/assets/social1.png" alt="Facebook" /></a>
-                        <a href="#"><img src="/assets/social2.png" alt="Twitter" /></a>
-                        <a href="#"><img src="/assets/social3.png" alt="Instagram" /></a>
-                        <a href="#"><img src="/assets/social4.png" alt="LinkedIn" /></a>
+                        <a href="#"><img src="./assets/social1.png" alt="Facebook" /></a>
+                        <a href="#"><img src="./assets/social2.png" alt="Twitter" /></a>
+                        <a href="#"><img src="./assets/social3.png" alt="Instagram" /></a>
+                        <a href="#"><img src="./assets/social4.png" alt="LinkedIn" /></a>
                     </div>
                 </div>
             </div>

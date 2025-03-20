@@ -11,29 +11,29 @@ export default function GeneralInfo() {
                     service, competitive pricing, and a wide range of.</p>
                     <button> 
                         <span>Get Started</span>
-                        <img src="/assets/get-started-icon.svg" alt="arrow" /> 
+                        <img src="./assets/get-started-icon.svg" alt="arrow" /> 
                     </button>
                 </div>
                 <div className='company-facts'>
-                    <img src="/assets/fact1.svg" alt="icon" />
+                    <img src="./assets/fact1.svg" alt="icon" />
                     <h4>Special Financing Offers</h4>
                     <p>Our stress-free finance department that can
                     find financial solutions to save you money.</p>
                 </div>
                 <div className='company-facts'>
-                    <img src="/assets/fact2.svg" alt="icon" />
+                    <img src="./assets/fact2.svg" alt="icon" />
                     <h4>Trusted Car Dealership</h4>
                     <p>Our stress-free finance department that can
                     find financial solutions to save you money.</p>
                 </div>
                 <div className='company-facts'>
-                    <img src="/assets/fact3.svg" alt="icon" />
+                    <img src="./assets/fact3.svg" alt="icon" />
                     <h4>Transparent Pricing</h4>
                     <p>Our stress-free finance department that can
                     find financial solutions to save you money.</p>
                 </div>
                 <div className='company-facts'>
-                    <img src="/assets/fact4.svg" alt="icon" />
+                    <img src="./assets/fact4.svg" alt="icon" />
                     <h4>Expert Car Service</h4>
                     <p>Our stress-free finance department that can
                     find financial solutions to save you money.</p>

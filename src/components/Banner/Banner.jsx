@@ -25,7 +25,7 @@ export default function Banner() {
                     <img src={logo} />
                 </div>
                 <div className="menu">
-                    <img src="/assets/menu.svg" alt="Menu icon" onClick={() => setMenuOpen(!menuOpen)}/>
+                    <img src="./assets/menu.svg" alt="Menu icon" onClick={() => setMenuOpen(!menuOpen)}/>
                 </div>
                 <nav className={menuOpen ? "open" : ""}>
                     <ul className="nav-items">

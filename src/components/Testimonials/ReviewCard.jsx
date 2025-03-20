@@ -6,7 +6,7 @@ export default function ReviewCard(props) {
         <div className="review-card">
             <div className="review-title">
                 <h3>{props.title}</h3>
-                <img src="/assets/review-icon.png" alt="Quotation marks"/>   
+                <img src="./assets/review-icon.png" alt="Quotation marks"/>   
             </div>
             
             <p>{props.review}</p>
