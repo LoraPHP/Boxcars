@@ -27,6 +27,11 @@
 
 }
 
+.navbar .menu img{
+  user-select: none;
+
+}
+
 @media (max-width: 1000px){
   .navbar{
     flex-direction: column;

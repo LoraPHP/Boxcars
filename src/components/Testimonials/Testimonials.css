@@ -42,6 +42,7 @@
     background-color: #ffffff;
     cursor: pointer;
     transition: all 0.3s;
+    user-select: none;
 }
 
 .navigation-button:hover {
